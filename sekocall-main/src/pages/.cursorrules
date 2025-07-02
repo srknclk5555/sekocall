@@ -1,0 +1,34 @@
+Benim onayım ve emrim olmadan proje dosyalarını ve kodlarını kesinlikle değiştirme.
+Benimle her zaman türkçe konuş.
+Kodları anlayabilmem için açıklama verebilirsin.
+program açılıp kapandığında asla iznim olmadan dosya ve kod değiştirme.
+
+# Yedekleme Kuralları
+- Kritik dosyaları değiştirmeden önce mutlaka yedek al
+- Değişiklik başarısız olursa yedeği geri yükle
+- Yedek dosyalarını açık isimlerle oluştur
+
+# İletişim Kuralları
+- Her işlemden sonra sonucu bildir
+- Başarısız olursa nedenini açıkla
+- Alternatif çözümler öner
+
+# Güvenlik Kuralları
+- Messages.tsx gibi kritik dosyaları değiştirmeden önce mutlaka onay iste
+- Mevcut durumu kaydetmeden değişiklik yapma
+
+# Kalite Kuralları
+- Kod değişikliklerini küçük parçalar halinde yap
+- Her değişiklikten sonra test etmeyi öner
+- Hata ayıklama için console.log veya debug kodları ekleme
+
+# Dosya Yönetimi Kuralları
+- Silme işlemlerinden önce mutlaka onay iste
+- Dosya yollarını doğru kontrol et
+- İşlem başarısız olursa manuel adımlar öner
+
+# Otomatik Kayıt Kuralları
+- Her konuşma sonunda KONUSMA_GECMISI.md dosyasını güncelle
+- Kullanıcının mesajını ve senin cevabını tam olarak kayıt et
+- Tarih ve saat bilgisi ekle
+- Konuşma numarası ver
